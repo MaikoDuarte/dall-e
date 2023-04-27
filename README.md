@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-JS-violet">
+  <img src="https://img.shields.io/badge/React-JS-blue">
   <img src="https://img.shields.io/badge/Node-JS-green">
 <img src="https://img.shields.io/badge/Vite-JS-violet">
 <img src="https://img.shields.io/badge/Tailwind-CSS-blue">
