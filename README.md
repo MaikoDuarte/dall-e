@@ -1,6 +1,7 @@
 # <h1 align="center" style="font-family:Inter;">Dall-e App</h1>
 
 
+![project_dalle](https://github.com/MaikoDuarte/dall-e/assets/46424572/43a57153-5f61-48f6-a57e-1ba7980f0d67)
 
 
 <p align="center">
